@@ -7,7 +7,7 @@ I'm an aspiring Full-Stack Software Engineer, I bring a strong enthusiasm for te
 My steadfast dedication to technology, my adept problem-solving abilities, and my fervor for embracing innovation consistently drive my journey. I'm keen to connect with like-minded professionals who share the same passion for the constantly evolving tech sphere. Let's uncover possibilities, exchange perspectives, and work together to fuel innovation in this thrilling domain.
 Don't hesitate to reach out on LinkedIn or drop me an email at a4ashwath@gmail.com. Together, let's spearhead innovation!
 
-**💻 Currently working on: **
+💻 Currently working on:
 
 Enhancing my skills in containerization and microservices
 
