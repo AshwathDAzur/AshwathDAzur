@@ -1,4 +1,4 @@
-Hi there, I'm Ashwath Kummaran! 👋
+**Hi there, I'm Ashwath Kummaran! 👋**
 🚀 About Me
 I'm an aspiring Full-Stack Software Engineer, I bring a strong enthusiasm for technology and innovation. I am eager to delve into the realms of software development, project management, and technical leadership within the dynamic landscape of the Information Technology sector.
 
@@ -15,9 +15,6 @@ I explored a range of Azure resources, including Static Web Apps, App Services, 
 🛠️ Skills & Technologies
 C# dotnet JavaScript node js React.js Docker Swarm aure aws  Git VS Code Postman
 Concepts: REST APIs, Data Structures & Algorithms, Problem Solving, OOP, SDLC
-
-🔗 Let's Connect!
-Email LinkedIn GitHub LeetCode
 
 💡 Interests: Web Development, infrastructure designing, solutioning
 🍕 Hobbies: Coding, Reading tech blogs, watching series
