@@ -11,7 +11,7 @@ Don't hesitate to reach out on LinkedIn or drop me an email at a4ashwath@gmail.c
 
 Enhancing my skills in containerization and microservices
 
-**💼 Professional Experience**
+💼 Professional Experience
 
 **Software Engineer at Psiog Digital (Feb 2023 - present)**
 
@@ -19,15 +19,15 @@ I developed a strong foundation in building bots for Microsoft Teams and other t
 
 I explored a range of Azure resources, including Static Web Apps, App Services, Azure Key Vault, and Azure Blob Storage, further enhancing my cloud knowledge. My experience in Azure DevOps included managing Git branches and workflows, and I was actively involved in large-scale data migration projects using ADF and Node.js scripts. Additionally, I worked with Power Apps and Power Automate flows, and delved into the implementation of Azure NLP solutions. This diverse experience has significantly broadened my technical skills and understanding of modern development practices.
 
-**🛠️ Skills & Technologies**
+🛠️ Skills & Technologies
 
 C# dotnet JavaScript node js React.js Docker Swarm aure aws  Git VS Code Postman
 Concepts: REST APIs, Data Structures & Algorithms, Problem Solving, OOP, SDLC
 
-**💡 Interests:** Web Development, infrastructure designing, solutioning
+💡 Interests: Web Development, infrastructure designing, solutioning
 
-**🍕 Hobbies: ** Coding, Reading tech blogs, watching series
+🍕 Hobbies: Coding, Reading tech blogs, watching series
 
-**🤝 Open to: ** Collaborations on interesting projects
+🤝 Open to: Collaborations on interesting projects
 
 Appreciate your visit to my profile, and I anticipate connecting with you soon!
