@@ -1,4 +1,4 @@
-**Hi there, I'm Ashwath Kummaran! 👋**
+**Hi there, I'm Ashwath Kumaran! 👋**
 
 **🚀 About Me**
 
