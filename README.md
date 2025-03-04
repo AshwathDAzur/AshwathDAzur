@@ -12,12 +12,11 @@ Enhancing my skills in containerization and microservices
 ### 💼 Professional Experience
 
 **Software Engineer at Psiog Digital (Feb 2023 - present)**
-I developed a strong foundation in building bots for Microsoft Teams and other third-party applications, while also gaining hands-on experience with the SDLC and the implementation of best practices. My work involved extensive development using React and .NET, where I played a key role in application development and laying the infrastructure for a monolithic three-tier application.
-
-I explored a range of Azure resources, including Static Web Apps, App Services, Azure Key Vault, and Azure Blob Storage, further enhancing my cloud knowledge. My experience in Azure DevOps included managing Git branches and workflows, and I was actively involved in large-scale data migration projects using ADF and Node.js scripts. Additionally, I worked with Power Apps and Power Automate flows, and delved into the implementation of Azure NLP solutions. This diverse experience has significantly broadened my technical skills and understanding of modern development practices.
+I have strong expertise in building bots for Microsoft Teams and third-party apps, with hands-on experience in React, .NET, and monolithic three-tier architecture. My work spans Azure services like Static Web Apps, Key Vault, and Blob Storage, along with Azure DevOps, Git workflows, and large-scale data migration using ADF and Node.js. Additionally, I have experience with Power Apps, Power Automate, and Azure NLP solutions, enhancing my cloud and automation skills.
 
 ### 🛠️ Skills & Technologies
-C# dotnet JavaScript node js React.js Docker Swarm aure aws  Git VS Code Postman
-Concepts: REST APIs, Data Structures & Algorithms, Problem Solving, OOP, SDLC
+`C#` `dotnet` `JavaScript` `node js` `React.js` `Docker Swarm` `azure` `aws` `Git` `VS` `Code` `Postman`
+
+`REST APIs` `Data Structures & Algorithms` `Problem Solving` `OOP` `SDLC`
 
 Appreciate your visit to my profile, and I anticipate connecting with you soon!
