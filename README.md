@@ -20,13 +20,4 @@ I explored a range of Azure resources, including Static Web Apps, App Services, 
 C# dotnet JavaScript node js React.js Docker Swarm aure aws  Git VS Code Postman
 Concepts: REST APIs, Data Structures & Algorithms, Problem Solving, OOP, SDLC
 
-### 💡 Interests
-Web Development, infrastructure designing, solutioning
-
-### 🍕 Hobbies
-Coding, Reading tech blogs, watching series
-
-### 🤝 Open to
-Collaborations on interesting projects
-
 Appreciate your visit to my profile, and I anticipate connecting with you soon!
