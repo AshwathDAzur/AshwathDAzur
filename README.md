@@ -1,4 +1,4 @@
-# **Hello, I'm Ashwath Kumaran! 👋**
+# **Hello, I'm Ashwath 👋**
 
 ### **🚀 About Me**
 I'm an aspiring Full-Stack Software Engineer, I bring a strong enthusiasm for technology and innovation. I am eager to delve into the realms of software development, project management, and technical leadership within the dynamic landscape of the Information Technology sector.
