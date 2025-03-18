@@ -15,7 +15,7 @@ Enhancing my skills in containerization and microservices
 I have strong expertise in building bots for Microsoft Teams and third-party apps, with hands-on experience in React, .NET, and monolithic three-tier architecture. My work spans Azure services like Static Web Apps, Key Vault, and Blob Storage, along with Azure DevOps, Git workflows, and large-scale data migration using ADF and Node.js. Additionally, I have experience with Power Apps, Power Automate, and Azure NLP solutions, enhancing my cloud and automation skills.
 
 ### 🛠️ Skills & Technologies
-`C#` `dotnet` `JavaScript` `node js` `React.js` `Docker Swarm` `azure` `aws` `Git` `VS` `Code` `Postman`
+`C#` `dotnet` `JavaScript` `node js` `React.js` `Docker Swarm` `azure` `aws` `Git` `VS Code` `Postman`
 
 `REST APIs` `Data Structures & Algorithms` `Problem Solving` `OOP` `SDLC`
 
